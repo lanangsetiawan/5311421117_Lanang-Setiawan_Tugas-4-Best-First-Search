@@ -1,10 +1,10 @@
 # 5311421117_Lanang-Setiawan_Tugas-4-Best-First-Search
 
-package TicTacToe;
-/** * Enumeration for the various states of the game */ public enum
-GameState { // to save as "GameState.java"
-PLAYING, DRAW, CROSS_WON, NOUGHT_WON
-}
+package TicTacToe; 
+/** * Enumeration for the various states of the game */ public enum 
+GameState { // to save as "GameState.java" 
+PLAYING, DRAW, CROSS_WON, NOUGHT_WON 
+} 
 
   * GameState (dalam GameState.java) adalah enumerasi yang digunakan untuk mewakili status permainan Tic-Tac-Toe. Ada empat nilai yang mungkin:
     1. PLAYING: Ini menunjukkan bahwa permainan masih berlangsung.
