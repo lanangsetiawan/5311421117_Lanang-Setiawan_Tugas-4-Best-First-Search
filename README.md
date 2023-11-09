@@ -377,6 +377,6 @@ Pada intinya, init() melakukan hal berikut:
 
 <title>Tic Tac Toe</title>  
 
-![Gambar 1](https://drive.google.com/file/d/1ZXcD7NO6aQmYRe4wqjOQXnEVcttlFK1w/view?usp=sharing)  
-![Gambar 2](https://drive.google.com/file/d/12YQyzRAM2yUh4d_GwP2SV5xhO9MGI1jh/view?usp=drive_link)  
-![Gambar 3](https://drive.google.com/file/d/1CC-JRy_jRCgaSnVKICWjoxnrHIMkkVfJ/view?usp=drive_link)  
+![Gambar_1](https://drive.google.com/file/d/1ZXcD7NO6aQmYRe4wqjOQXnEVcttlFK1w/view?usp=sharing)  
+![Gambar_2](https://drive.google.com/file/d/12YQyzRAM2yUh4d_GwP2SV5xhO9MGI1jh/view?usp=drive_link)  
+![Gambar_3](https://drive.google.com/file/d/1CC-JRy_jRCgaSnVKICWjoxnrHIMkkVfJ/view?usp=drive_link)   
