@@ -12,7 +12,7 @@ PLAYING, DRAW, CROSS_WON, NOUGHT_WON
   3. CROSS_WON: Ini menunjukkan bahwa pemain yang menggunakan tanda "X" telah menang.
   4. NOUGHT_WON: Ini menunjukkan bahwa pemain yang menggunakan tanda "O" telah menang.
      
-  * package TicTacToe;
+  package TicTacToe;
   /** * Enumeration for the seeds and cell contents */ public enum Seed {
   // to save as "Seed.java"
   EMPTY, CROSS, NOUGHT
