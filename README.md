@@ -1,5 +1,8 @@
 # 5311421117_Lanang-Setiawan_Tugas-4-Best-First-Search
 
+## Nama : Lanang Setiawan
+## NIM  : 5311421117
+
 package TicTacToe;  
 /** * Enumeration for the various states of the game */ public enum  
 GameState { // to save as "GameState.java"  
@@ -370,6 +373,10 @@ Applet ini memungkinkan permainan Tic-Tac-Toe untuk dijalankan di dalam elemen p
 Pada intinya, init() melakukan hal berikut:  
 
  * Menggunakan SwingUtilities.invokeAndWait(new Runnable()) untuk memastikan bahwa inisialisasi GUI dilakukan dalam utas Event-Dispatching.  
- * Setelah inisialisasi GUI selesai, applet menambahkan GameMain (kelas utama permainan) ke kontennya dengan menggunakan setContentPane(new GameMain()). Dengan demikian, permainan Tic-Tac-Toe akan dijalankan dalam applet ini ketika applet dimuat di browser atau dalam kontainer applet yang sesuai.
+ * Setelah inisialisasi GUI selesai, applet menambahkan GameMain (kelas utama permainan) ke kontennya dengan menggunakan setContentPane(new GameMain()). Dengan demikian, permainan Tic-Tac-Toe akan dijalankan dalam applet ini ketika applet dimuat di browser atau dalam kontainer applet yang sesuai.  
 
 <title>Tic Tac Toe</title>  
+
+![Gambar 1](https://drive.google.com/file/d/1ZXcD7NO6aQmYRe4wqjOQXnEVcttlFK1w/view?usp=sharing)  
+![Gambar 2](https://drive.google.com/file/d/12YQyzRAM2yUh4d_GwP2SV5xhO9MGI1jh/view?usp=drive_link)  
+![Gambar 3](https://drive.google.com/file/d/1CC-JRy_jRCgaSnVKICWjoxnrHIMkkVfJ/view?usp=drive_link)  
