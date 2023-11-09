@@ -1,6 +1,6 @@
 # 5311421117_Lanang-Setiawan_Tugas-4-Best-First-Search
 
-package TicTacToe; 
+package TicTacToe;  
 /** * Enumeration for the various states of the game */ public enum 
 GameState { // to save as "GameState.java" 
 PLAYING, DRAW, CROSS_WON, NOUGHT_WON 
